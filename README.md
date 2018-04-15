@@ -30,7 +30,7 @@ line(double x0, double y0, double x1, double y1, Color color, double time)
 # Notes
 - Not setting a duration will make the graphic stay indefinitely.
 - Setting one colour will create a solid shape.
-- While the module has been tried and tested: if any problems are found with the code module, please liase with the creator: Amy Jo Turner (ajt562@york.ac.uk), or speak with any of the team over at SImpLe.
+- While the module has been tried and tested- if any problems are found with the code module, please liase with the creator, Amy Jo Turner (ajt562@york.ac.uk), or speak with any of the team over at SImpLe.
 
 Many thanks for your purchase, we hope it is satisfactory to your needs!
 
