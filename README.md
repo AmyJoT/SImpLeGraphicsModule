@@ -1,5 +1,5 @@
 # SImpLeGraphicsModule
-In order to add this module, place the GraphicsModule.java into your directory.
+In order to add this module, place GraphicModule.java into your directory.
 
 # What's Included.
 The module includes the manipulation of graphics, including; lines, circles & rectangles. These shapes can have a gradient applied to them, solid colour, as well as their size and position being manipulated as wished. Another feature is the duration - any object can have a time element added to it, meaning that the object will disappear after the given time.
