@@ -27,11 +27,11 @@ line(double x0, double y0, double x1, double y1, Color color, double time)
 ```
 'x0' and 'y0' in this case determine the starting points of the line, while 'x1' and 'y1' determine the finishing point. Once again the other variables are identical to those seen previously. There is only one colour in this case, as a line does not necessarily need anything but the one colour.
 
-#Notes
+# Notes
 - Not setting a duration will make the graphic stay indefinitely.
 - Setting one colour will create a solid shape.
 - If any problems are found with the code, please liase with the creator: Amy Jo Turner (ajt562@york.ac.uk), or speak with any of the team over at SImpLe.
 
-#Many thanks for your purchase, we hope it is satisfactory to your needs!
+# Many thanks for your purchase, we hope it is satisfactory to your needs!
 
 
